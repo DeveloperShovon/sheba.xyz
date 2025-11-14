@@ -15,14 +15,15 @@
 .Hero-container{
     background-image: url(/images/hero-cover.jpg);
     background-repeat: no-repeat;
-    background-position: cover;
+    background-position: center;
     height: 450px;
+    background-size: cover;
 }
 .H-Text{
     color: rgb(255, 255, 255);
     font-weight: bold;
 }
-;;;;
+
 
 
 
