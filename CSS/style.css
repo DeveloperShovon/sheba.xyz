@@ -23,11 +23,32 @@
     color: rgb(255, 255, 255);
     font-weight: bold;
 }
+/* Hero features */
+.hero-fratures{
+    margin-top: -3rem;
+}
 
 
+/* Home service */
 
+.H-service-img{
+    border-radius: 15px;
+    margin-bottom: 8px;
+}
 
+/* Why Choose Us Section */
 
+.Choose-Us{
+    background-color: #fafbfc;
+}
 
+.service{
+    background-color: white;
+}
 
-
+.service img{
+    width:50px ;
+}
+.service span{
+    font-size: 16px
+}
